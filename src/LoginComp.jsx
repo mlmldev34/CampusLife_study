@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import Header from "./Header.jsx";
 
 const account = {
     email : 'test@test.com',
